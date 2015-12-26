@@ -1,6 +1,6 @@
 #!/bin/bash
 # Based on https://github.com/krobertson/xenserver-automater/blob/master/usr/sbin/xe-set-hostname
-# Adapted by Frederick Ding
+# Adapted by Frederick Ding and Marcus Herstik
 # based on https://raw.githubusercontent.com/frederickding/xenserver-kickstart/develop/opt/domu-hostname.sh
 
 # Detect if xenstore-read is available
